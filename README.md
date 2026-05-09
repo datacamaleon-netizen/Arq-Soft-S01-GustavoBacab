@@ -6,3 +6,4 @@ Proyecto inicial para la práctica #02.
 - ASP.NET Core MVC
 
 ## Capturas
+#Tomare capturas
